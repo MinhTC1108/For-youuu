@@ -8,7 +8,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Thương vk iu lắm áaaaa 💝",
+    pageTitle: "Thương Sữa iu lắm áaaaa 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Hôm nay là ngày rất đặc biệt và anh có đôi lời gửi đến người cũng rất đặc biệt quan trong với anh nè🌹",
-            yesBtn: "Đâu đâu, để xem ck em viết gì cho em đây 🥰🥰",
+            yesBtn: "Đâu đâu, để xem anh viết gì cho em đây 🥰🥰",
             noBtn: "Ai thèm xem chớ 🙄🙄"
         }
     },
@@ -48,9 +48,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Nhân ngày 20/10 này, a có đôi lời mún gửi đến công chúa của a nè💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "(❤️´艸｀❤️)"
+        title: "Nhân ngày 20/10 này, a có đôi lời mún gửi đến Sữa của a nè💝💖💝💓",
+        message: "Chúc công chúa của a ngày càng thật xinh đẹp và sẽ yêu a hơn từng ngày. Chúc e 20/10 thật vui vẻ và hạnh phúc. Và mãi luôn có a ở cạnh e!",
     },
 
     // Color scheme for the website
