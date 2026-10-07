@@ -74,7 +74,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://raw.githubusercontent.com/MinhTC1108/20-10-cho-vk-iu/main/APM.mp3",
+        musicUrl: "https://raw.githubusercontent.com/MinhTC1108/For-youuu/main/APM.mp3",
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
